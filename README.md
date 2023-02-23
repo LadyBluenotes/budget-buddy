@@ -1,2 +1,2 @@
-# budget-buddy
+# Budget Buddy API
  
